@@ -1,2 +1,2 @@
 # TelegramBasedKeylogger
-Capturing keys from keyboard and sending them to our Telegram bot
+Capturing keys from keyboard/clipboard and sending them to our Telegram bot
